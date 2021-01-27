@@ -1,0 +1,59 @@
+{
+  "VocabLists" :
+  [
+    {
+      "id": "1",
+      "name": "HSK 1",
+      "description": "HSK 1 vocab list",
+      "vocab_cnt": "150",
+      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk1.txt",
+      "status": "DOWNLOAD",
+      "update_date": "1606587896"
+    },
+    {
+      "id": "2",
+      "name": "HSK 2",
+      "description": "HSK 2 vocab list",
+      "vocab_cnt": "150",
+      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk2.txt",
+      "status": "DOWNLOAD",
+      "update_date": "1606587896"
+    },
+    {
+      "id": "3",
+      "name": "HSK 3",
+      "description": "HSK 3 vocab list",
+      "vocab_cnt": "300",
+      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk3.txt",
+      "status": "DOWNLOAD",
+      "update_date": "1606587896"
+    },
+    {
+      "id": "4",
+      "name": "HSK 4",
+      "description": "HSK 4 vocab list",
+      "vocab_cnt": "600",
+      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk4.txt",
+      "status": "DOWNLOAD",
+      "update_date": "1606587896"
+    },
+    {
+      "id": "5",
+      "name": "HSK 5",
+      "description": "HSK 5 vocab list",
+      "vocab_cnt": "600",
+      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk5.txt",
+      "status": "DOWNLOAD",
+      "update_date": "1606587896"
+    },
+    {
+      "id": "6",
+      "name": "HSK 6",
+      "description": "HSK 6 vocab list",
+      "vocab_cnt": "600",
+      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk6.txt",
+      "status": "DOWNLOAD",
+      "update_date": "1606587896"
+    }
+  ]
+}
