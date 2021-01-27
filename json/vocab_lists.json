@@ -6,7 +6,7 @@
       "name": "HSK 1",
       "description": "HSK 1 vocab list",
       "vocab_cnt": "150",
-      "vocabs_source_url": "http://10.0.2.2:8000/hsklists/hsk1.txt",
+      "vocabs_source_url": "https://internfury.github.io/shuohuameta/hsklists/hsk1.txt",
       "status": "DOWNLOAD",
       "update_date": "1606587896"
     },
